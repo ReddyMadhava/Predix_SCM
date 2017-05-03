@@ -1,0 +1,29 @@
+{
+  "name": "product_shipment_temp_tracking-Blockchain",
+  "version": "0.0.1",
+  "description": "A Node.js product shipment temp program using NodeSdk Apis",
+  "main": "product_shipment_temp_tracking.js",
+  "scripts": {
+    "start": "node hello-blockchain.js",
+    "start": "PayloadService.js"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "author": "Madhava Reddy (reddy.madhava@tcs.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "hfc": "^0.6.5",
+    "express": "^4.15.2",
+    "cors": "latest",
+    "http": "latest",
+    "util": "latest",
+    "fs": "latest",
+    "date-format": "^1.1.0"
+  }
+}
+
